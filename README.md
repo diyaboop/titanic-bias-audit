@@ -15,9 +15,9 @@ embedded in historical decision systems.
 Python · SQL · Pandas · SQLite · Matplotlib · pytest
 
 ## Structure
-- `DAY2/titanic_eda.ipynb` — exploratory data analysis and charts
-- `DAY3/data_pipeline.ipynb` — SQL pipeline, survival rate by class and gender
-- `DAY9/titanic_analysis.py` — OOP refactor with pytest
+- `titanic_eda.ipynb` — exploratory data analysis and charts
+- `data_pipeline.ipynb` — SQL pipeline, survival rate by class and gender
+- `titanic_analysis.py` — OOP refactor with pytest
 
 ## How to Run
 ```bash
